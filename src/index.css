@@ -17,6 +17,7 @@ code {
   margin-left: 30px;
 }
 
+@media(min-width: 480px){
 .dot{
   height: 7.559185981750488px;
   width: 6.88399600982666px;
@@ -123,4 +124,251 @@ code {
   margin-top: 85px;
   position: absolute;
   color:  #A2A4B9;
+  }
+
+  .report-page{
+  margin-left: 5px;
+  margin-top: 135px;
+  position: absolute;
+  color:  #A2A4B9;
+  }
+
+  .report-icon{
+    margin-top: 135px;
+    margin-left: -30px;
+    position: absolute;
+    color:  #A2A4B9;
+  }
+
+  .company-page{
+    margin-left: 5px;
+    margin-top: 180px;
+    position: absolute;
+    color:  #A2A4B9;
+  }
+
+  .company-icon{
+    margin-top: 180px;
+    margin-left: -30px;
+    position: absolute;
+    color:  #A2A4B9;
+  }
+
+  .user-page{
+    margin-left: 5px;
+    margin-top: 230px;
+    position: absolute;
+    color:  #A2A4B9;
+  }
+
+  .user-icon{
+    margin-top: 230px;
+    margin-left: -30px;
+    position: absolute;
+    color:  #A2A4B9;
+  }
+
+  .history-page{
+    margin-left: 5px;
+    margin-top: 275px;
+    position: absolute;
+    color:  #A2A4B9;
+  }
+
+  .history-icon{
+    margin-top: 275px;
+    margin-left: -30px;
+    position: absolute;
+    color:  #A2A4B9;
+  }
+
+  .btn{
+    height: 50px;
+    width: 200px;
+    margin-left: 25px;
+    position:relative;
+    border-radius:10px;
+    background-color:hsl(261, 83%, 50%) ;
+    color: #FFFBFB;
+    border: 0cm;
+    font-weight: 200;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 19px;
+  }
+}
+   
+@media(max-width: 780px){
+
+  .dot{
+    height: 7.559185981750488px;
+    width: 6.88399600982666px;
+    margin-top: 25px;
+    margin-left:85px;
+    border-radius: 0px;
+    position: absolute;
+  }
+
+  .logo{
+    height: 27.62470054626465px;
+    width: 27.239463806152344px;
+    margin-left: 75px;
+    margin-top: 30px;
+    border-radius: 0px;  
+  }
+  
+  .company-name{
+    height: 21px;
+    width: 118px;
+    left: -6002px;
+    margin-top: -30px;
+    margin-left: 110px;
+    border-radius: nullpx;
+  
+  }
+
+  .picture1{
+    height: 78px;
+    width: 78px;
+    margin-left:115px;
+    top: -1173px;
+    border-radius: 0px;
+  
+  }
+
+  .greeting{
+    font-family: Segoe UI;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left:80px;
+    color: #888CB7;
+  
+  }
+
+  .welcome{
+    font-family: Segoe UI;
+    font-size: 10px;
+    font-weight: 700;
+    line-height: 15px;
+    letter-spacing: 0em;
+    margin-left:70px;
+    color:#A2A4B9;
+    margin-top: -10px;
+  }
+  
+  .plan{
+    font-family: Segoe UI;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 19px;
+    letter-spacing: 0em;
+    margin-left:110px;
+    margin-top: -5px;
+    color: #A2A4B9;
+  
+  }
+
+   .btn{
+    height: 50px;
+    margin-left: 80px;
+    position:relative;
+    border-radius:10px;
+    background-color:hsl(261, 83%, 50%) ;
+    color: #FFFBFB;
+    border: 0cm;
+    font-weight: 200;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 19px;
+  }
+   
+  .overview-page{
+    margin-left: 140px;
+    margin-top: 30px;
+    position: absolute;
+    color:  #A2A4B9;
+  }
+
+  .overview-icon{
+    margin-top: 25px;
+    margin-left: 105px;
+    width: 40px;
+    position:absolute;
+  }
+
+  .policy-page{
+    margin-left: 142px;
+    margin-top: 75px;
+    position: absolute;
+    color:  #A2A4B9;
+  }
+  
+  .policy-icon{
+    margin-top: 75px;
+    margin-left: 110px;
+    position: absolute;
+  }
+
+  .report-page{
+    margin-left: 142px;
+    margin-top: 125px;
+    position: absolute;
+    color:  #A2A4B9;
+    }
+  
+    .report-icon{
+      margin-top: 125px;
+      margin-left: 110px;
+      position: absolute;
+      color:  #A2A4B9;
+    }
+
+    .company-page{
+      margin-left: 142px;
+      margin-top: 165px;
+      position: absolute;
+      color:  #A2A4B9;
+    }
+  
+    .company-icon{
+      margin-top: 165px;
+      margin-left: 110px;
+      position: absolute;
+      color:  #A2A4B9;
+    }
+
+    .user-page{
+      margin-left: 142px;
+      margin-top: 210px;
+      position: absolute;
+      color:  #A2A4B9;
+    }
+  
+    .user-icon{
+      margin-top: 210px;
+      margin-left: 110px;
+      position: absolute;
+      color:  #A2A4B9;
+    }
+
+    .history-page{
+      margin-left: 142px;
+      margin-top: 255px;
+      position: absolute;
+      color:  #A2A4B9;
+    }
+  
+    .history-icon{
+      margin-top: 255px;
+      margin-left: 110px;
+      position: absolute;
+      color:  #A2A4B9;
+    }
 }
