@@ -1,0 +1,126 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.sidebar{
+  margin-top: 10px;
+  margin-left: 30px;
+}
+
+.dot{
+  height: 7.559185981750488px;
+  width: 6.88399600982666px;
+  margin-top: 25px;
+  margin-left:30px;
+  border-radius: 0px;
+  position: absolute;
+  
+
+}
+
+.logo{
+  height: 27.62470054626465px;
+  width: 27.239463806152344px;
+  margin-left: 20px;
+  margin-top: 30px;
+  border-radius: 0px;  
+  
+}
+
+.company-name{
+  height: 21px;
+  width: 118px;
+  left: -6002px;
+  margin-top: -30px;
+  margin-left: 60px;
+  border-radius: nullpx;
+
+}
+
+.picture1{
+  height: 78px;
+  width: 78px;
+  margin-left:70px;
+  top: -1173px;
+  border-radius: 0px;
+
+}
+
+.greeting{
+  font-family: Segoe UI;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 21px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-left:30px;
+  color: #888CB7;
+
+}
+
+.welcome{
+  font-family: Segoe UI;
+  font-size: 10px;
+  font-weight: 700;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+  margin-left:15px;
+  color:#A2A4B9;
+  margin-top: -10px;
+}
+
+.plan{
+  font-family: Segoe UI;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 19px;
+  letter-spacing: 0em;
+  margin-left:50px;
+  margin-top: -5px;
+  color: #A2A4B9;
+
+}
+
+.freemode{
+ color: #33D69F;
+
+}
+
+.overview-icon{
+  margin-top: 35px;
+  margin-left: 25px;
+  width: 40px;
+}
+
+.overview-page{
+  margin-left: 5px;
+  margin-top: 40px;
+  position: absolute;
+  color:  #A2A4B9;
+
+}
+
+.policy-icon{
+  margin-top: 85px;
+  margin-left: -30px;
+  position: absolute;
+  
+}
+
+.policy-page{
+  margin-left: 5px;
+  margin-top: 85px;
+  position: absolute;
+  color:  #A2A4B9;
+}
