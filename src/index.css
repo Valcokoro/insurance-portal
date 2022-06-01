@@ -198,9 +198,83 @@ code {
     font-size: 14px;
     line-height: 19px;
   }
+  .rightpane{
+    width: available;
+    height: available;
+    position: relative;
+    margin-left: 50%;
+    margin-right: 5%;
+    margin-top: 20px;
+    background-image: url(rectangle.svg);
+  }
+
+  .reports{
+    background-color: #F4F5F9;
+    margin-left: 300px;
+    height: 600px;
+    margin-top: 10px;
+  }
+
+  .grid-item2{
+    margin-top: -300px;
+  }
+
+  .agent{
+    margin-left: -480px;
+    margin-top: 50px;
+    width: available;
+  }
+
+  .area{
+    position: absolute;
+    margin-left: -520px;
+    margin-top: 120px;
+    opacity: 0.1;
+    width: 952px;
+  }
+
+  .area2{
+    position: relative;
+    margin-left: -480px;
+    margin-top: -280px;
+    opacity: 0.1;
+   
+  }
+
+  .rectangle{
+    margin-left: -10px;
+    margin-top: 40px;
+    width: 480px;
+    position: absolute;
+    opacity: 0.4;
+  }
+  .reports-text{
+    margin-top:-230px;
+    margin-left: -50px;
+  }
+
+  .newbie-btn{
+    border: 1px dashed #42474A;
+    border-radius: 5px;
+    box-sizing: border-box;
+    position: absolute;
+    width: 140px;
+    height: 42px;
+    margin-left: 15px;
+    opacity: 0.6;
+    font-size: 18px;
+  }
+
+  .copy-code{
+    margin-left: 170px;
+  }
 }
    
 @media(max-width: 780px){
+
+  .side-menu{
+    height: 250px;
+  }
 
   .dot{
     height: 7.559185981750488px;
@@ -371,4 +445,83 @@ code {
       position: absolute;
       color:  #A2A4B9;
     }
+
+    .rightpane{
+      
+      position: relative;
+      margin-left: -300px;
+      margin-right: 5%;
+      margin-top: -250px;
+      background-color: #F4F5F9;
+    }
+  
+    .reports{
+      background-color: #F4F5F9;
+      margin-left: 300px;
+      height: 600px;
+      margin-top: 320px;
+    }
+    .grid-item2{
+      margin-top: 100px;
+    }
+  
+    .agent{
+      position: absolute;
+      margin-left: 10px;
+      margin-top: -20px;
+      width: 370px;
+      height:350px;
+    }
+
+    .area{
+      position: absolute;
+      width:360px;
+      margin-left: 10px;
+      margin-top: 180px;
+      opacity: 0.1;
+      
+    }
+
+    .area2{
+      position:relative;
+      width:358px;
+      margin-top:200px;
+      margin-left:10px;
+      opacity: 0.2;
+    }
+
+    .rectangle{
+      width: 100px;
+      height: 100px;
+      position: relative;
+      opacity: 0.0;
+      margin-top: -20px;
+    }
+    .reports-text{
+      margin-top:-20px;
+      margin-left: 50px;
+      font-size: 20px;
+      position: relative;
+    }
+
+
+
+    .newbie-btn{
+      border: 1px dashed #42474A;
+      border-radius: 5px;
+      box-sizing: border-box;
+      position: absolute;
+      width: 140px;
+      height: 38 px;
+      margin-left: 40px;
+      opacity: 0.6;
+      font-size: 18px;
+    }
+  
+    .copy-code{
+      margin-left: 190px;
+      margin-top: 0px;
+    }
+  
+  
 }

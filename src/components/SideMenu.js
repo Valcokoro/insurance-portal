@@ -16,7 +16,7 @@ const SideMenu = () => {
   
 return (
     <section className='sidebar'>
-      <div>
+      <div className='leftpane'>
          <img src={dot} alt='dot' className='dot' />
          <img src={logo} alt='logo' className='logo' />
          <h4 className='company-name'>Insurance Portal</h4>
