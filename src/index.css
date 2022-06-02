@@ -205,13 +205,13 @@ code {
     margin-left: 50%;
     margin-right: 5%;
     margin-top: 20px;
-    background-image: url(rectangle.svg);
+   
   }
 
   .reports{
     background-color: #F4F5F9;
     margin-left: 300px;
-    height: 600px;
+    height: 800px;
     margin-top: 10px;
   }
 
@@ -230,13 +230,13 @@ code {
     margin-left: -520px;
     margin-top: 120px;
     opacity: 0.1;
-    width: 952px;
+    width: 975px;
   }
 
   .area2{
     position: relative;
-    margin-left: -480px;
-    margin-top: -280px;
+    margin-left: -460px;
+    margin-top: -293px;
     opacity: 0.1;
    
   }
@@ -268,6 +268,467 @@ code {
   .copy-code{
     margin-left: 170px;
   }
+
+  .rectangle1{
+    margin-left:-480px;
+    margin-top: 150px;
+    opacity: 0.9;
+  }
+
+  .disburse-value{
+    background-color:#F4F5F9; 
+    position: absolute;
+  }
+
+  .one-k{
+    margin-left: -450px;
+    margin-top: -290px;
+    position: absolute;
+    font-size: 50px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 55px;
+    line-height: 73px;
+  }
+
+  .dollar-sign1{
+    margin-left: -335px;
+    margin-top: -300px;
+    position: absolute;
+    color: #713BDB;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 47px;
+  }
+
+  .total-value{
+    margin-left: -445px;
+    position: absolute;
+    margin-top: -210px;
+    color:#42474A;
+    width: 210px;
+    height: 23px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 23px;
+  }
+
+  .policy-text{
+    margin-left: -445px;
+    margin-top: -155px;
+    position: absolute;
+    width: 44px;
+    height: 23px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 23px;
+    color:#42474A;
+  }
+  .policy-amount{
+    margin-left: -230px;
+    margin-top: -155px;
+    position: absolute;
+    width: 36px;
+    height: 29px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 29px;
+    color: #42474A;
+  }
+
+  .policy-currency{
+    margin-left: -195px;
+    margin-top: -158px;
+    position: absolute;
+    width: 8px;
+    height: 17px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 17px;
+    color: #42474A;
+  }
+
+  .line1{
+    margin-top: 335px;
+    position: absolute;
+    margin-left: -290px;
+  }
+
+  .line2{
+    margin-top: 335px;
+    position: absolute;
+    margin-left: -195px;
+  }
+
+  .claim-text{
+    margin-left: -445px;
+    margin-top: -65px;
+    position: absolute;
+    width: 44px;
+    height: 23px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 23px;
+    color:#42474A;
+  }
+
+  .claim-amount{
+    margin-left: -230px;
+    margin-top: -70px;
+    position: absolute;
+    width: 36px;
+    height: 29px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 29px;
+    color: #42474A;
+  }
+
+  .claim-currency{
+    margin-left: -195px;
+    margin-top: -72px;
+    position: absolute;
+    width: 8px;
+    height: 17px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 17px;
+    color: #42474A;
+  }
+
+  .line3{
+    margin-top: 425px;
+    position: absolute;
+    margin-left: -290px;
+  }
+
+  .line4{
+    margin-top: 425px;
+    position: absolute;
+    margin-left: -98px;
+  }
+
+  .rectangle2{
+    margin-left: 10px;
+    margin-top: 150px;
+    position: absolute;
+  }
+
+  .two-five1{
+    margin-left: -120px;
+    margin-top: -290px;
+    position: absolute;
+    font-size: 50px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 55px;
+    line-height: 73px;
+  }
+
+  .dollar-sign2{
+    margin-left: -5px;
+    margin-top: -300px;
+    position: absolute;
+    color: #713BDB;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 47px;
+  }
+
+  .total-value2{
+    margin-left: -120px;
+    position: absolute;
+    margin-top: -210px;
+    color:#42474A;
+    width: 210px;
+    height: 23px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 23px;
+  }
+  
+  .policy-text2{
+    margin-left: -115px;
+    margin-top: -155px;
+    position: absolute;
+    width: 44px;
+    height: 23px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 23px;
+    color:#42474A;
+  }
+
+  .policy-amount2{
+    margin-left: 95px;
+    margin-top: -155px;
+    position: absolute;
+    width: 36px;
+    height: 29px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 29px;
+    color: #42474A;
+  }
+
+  .policy-currency2{
+    margin-left: 142px;
+    margin-top: -158px;
+    position: absolute;
+    width: 8px;
+    height: 17px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 17px;
+    color: #42474A;
+  }
+
+  .line5{
+    margin-top: 335px;
+    position: absolute;
+    margin-left: 40px;
+  }
+
+  .line6{
+    margin-top: 335px;
+    position: absolute;
+    margin-left: 190px;
+  }
+  
+  .claim-text2{
+    margin-left: -120px;
+    margin-top: -65px;
+    position: absolute;
+    width: 44px;
+    height: 23px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 23px;
+    color:#42474A;
+  }
+
+  .claim-amount2{
+    margin-left: 95px;
+    margin-top: -70px;
+    position: absolute;
+    width: 36px;
+    height: 29px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 29px;
+    color: #42474A;
+  }
+
+  .claim-currency2{
+    margin-left: 142px;
+    margin-top: -72px;
+    position: absolute;
+    width: 8px;
+    height: 17px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 17px;
+    color: #42474A;
+  }
+
+  .line7{
+    margin-top: 425px;
+    position: absolute;
+    margin-left: 36px;
+  }
+
+  .line8{
+    margin-top: 425px;
+    position: absolute;
+    margin-left: 220px;
+  }
+
+  .rectangle3{
+    margin-left: 340px;
+    margin-top: 150px;
+    position: absolute;
+  }
+
+  .two-five2{
+    margin-left: 200px;
+    margin-top: -290px;
+    position: absolute;
+    font-size: 50px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 55px;
+    line-height: 73px;
+  }
+
+  .dollar-sign3{
+    margin-left: 315px;
+    margin-top: -300px;
+    position: absolute;
+    color: #713BDB;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 47px;
+  }
+
+  .total-value3{
+    margin-left: 200px;
+    position: absolute;
+    margin-top: -210px;
+    color:#42474A;
+    width: 210px;
+    height: 23px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 23px;
+  }
+
+  .policy-text3{
+    margin-left: 205px;
+    margin-top: -155px;
+    position: absolute;
+    width: 44px;
+    height: 23px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 23px;
+    color:#42474A;
+  }
+
+  .policy-amount3{
+    margin-left: 410px;
+    margin-top: -155px;
+    position: absolute;
+    width: 36px;
+    height: 29px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 29px;
+    color: #42474A;
+  }
+
+  .policy-currency3{
+    margin-left: 455px;
+    margin-top: -158px;
+    position: absolute;
+    width: 8px;
+    height: 17px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 17px;
+    color: #42474A;
+  }
+
+  .line9{
+    margin-top: 335px;
+    position: absolute;
+    margin-left: 360px;
+  }
+
+  .line10{
+    margin-top: 335px;
+    position: absolute;
+    margin-left: 500px;
+  }
+
+  .claim-text3{
+    margin-left: 205px;
+    margin-top: -65px;
+    position: absolute;
+    width: 44px;
+    height: 23px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 23px;
+    color:#42474A;
+  }
+
+  .claim-amount3{
+    margin-left: 410px;
+    margin-top: -70px;
+    position: absolute;
+    width: 36px;
+    height: 29px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 29px;
+    color: #42474A;
+  }
+
+  .claim-currency3{
+    margin-left: 455px;
+    margin-top: -72px;
+    position: absolute;
+    width: 8px;
+    height: 17px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 17px;
+    color: #42474A;
+  }
+
+  .line11{
+    margin-top: 425px;
+    position: absolute;
+    margin-left: 360px;
+  }
+
+  .line12{
+    margin-top: 425px;
+    position: absolute;
+    margin-left: 550px;
+  }
+
 }
    
 @media(max-width: 780px){
@@ -397,11 +858,11 @@ code {
     color:  #A2A4B9;
     }
   
-    .report-icon{
-      margin-top: 125px;
-      margin-left: 110px;
-      position: absolute;
-      color:  #A2A4B9;
+  .report-icon{
+    margin-top: 125px;
+    margin-left: 110px;
+    position: absolute;
+    color:  #A2A4B9;
     }
 
     .company-page{
@@ -449,10 +910,13 @@ code {
     .rightpane{
       
       position: relative;
+      height: available;
       margin-left: -300px;
       margin-right: 5%;
       margin-top: -250px;
       background-color: #F4F5F9;
+      
+      
     }
   
     .reports{
@@ -463,6 +927,9 @@ code {
     }
     .grid-item2{
       margin-top: 100px;
+      position: relative;
+      height: available;
+      background-color: #F4F5F9;
     }
   
     .agent{
@@ -502,25 +969,481 @@ code {
       margin-left: 50px;
       font-size: 20px;
       position: relative;
+      
     }
-
-
 
     .newbie-btn{
       border: 1px dashed #42474A;
       border-radius: 5px;
       box-sizing: border-box;
-      position: absolute;
+      position: relative;
       width: 140px;
-      height: 38 px;
-      margin-left: 40px;
+      height: 48px;
+      margin-left: 60px;
       opacity: 0.6;
       font-size: 18px;
     }
   
     .copy-code{
-      margin-left: 190px;
-      margin-top: 0px;
+      margin-left: 210px;
+      margin-top: -40px;
+    }
+   
+    .rectangle1{
+      margin-left:30px;
+      margin-top: 30px;
+      opacity: 0.9;
+      
+    }
+
+    .one-k{
+      margin-left: 50px;
+      margin-top: -300px;
+      position: absolute;
+      font-size: 50px;
+      font-family: 'Segoe UI';
+      font-style: normal;
+      font-weight: 400;
+      line-height: 73px;
+    }
+
+    .dollar-sign1{
+      margin-left: 155px;
+      margin-top: -310px;
+      position: absolute;
+      color: #713BDB;
+      font-family: 'Segoe UI';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 35px;
+      line-height: 47px;
+    }
+
+    .total-value{
+      margin-left: 55px;
+      position: absolute;
+      margin-top: -230px;
+      color:#42474A;
+      width: 210px;
+      height: 23px;
+      font-family: 'Segoe UI';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 17px;
+      line-height: 23px;
+    }
+
+    .policy-text{
+      margin-left: 55px;
+      margin-top: -180px;
+      position: absolute;
+      width: 44px;
+      height: 23px;
+      font-family: 'Segoe UI';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 17px;
+      line-height: 23px;
+      color:#42474A;
+    }
+
+    .policy-amount{
+      margin-left: 275px;
+      margin-top: -185px;
+      position: absolute;
+      width: 36px;
+      height: 29px;
+      font-family: 'Segoe UI';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 22px;
+      line-height: 29px;
+      color: #42474A;
+    }
+
+    .policy-currency{
+      margin-left: 310px;
+      margin-top: -185px;
+      position: absolute;
+      position: absolute;
+      width: 8px;
+      height: 17px;
+      font-family: 'Segoe UI';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 13px;
+      line-height: 17px;
+      color: #42474A;
+    }
+
+    .line1{
+      margin-top: 190px;
+      position: absolute;
+      margin-left: -300px;
+    }
+  
+    .line2{
+      margin-top: 190px;
+      position: absolute;
+      margin-left: -205px;
+    }
+
+    .claim-text{
+      margin-left: 50px;
+      margin-top: -70px;
+      position: absolute;
+      width: 44px;
+      height: 23px;
+      font-family: 'Segoe UI';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 17px;
+      line-height: 23px;
+      color:#42474A;
+    }
+    
+    .claim-amount{
+      margin-left: 275px;
+      margin-top: -75px;
+      position: absolute;
+      width: 36px;
+      height: 29px;
+      font-family: 'Segoe UI';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 22px;
+      line-height: 29px;
+      color: #42474A;
+    }
+    
+    .claim-currency{
+      margin-left: 310px;
+      margin-top: -77px;
+      position: absolute;
+      width: 8px;
+      height: 17px;
+      font-family: 'Segoe UI';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 13px;
+      line-height: 17px;
+      color: #42474A;
+    }
+
+    .line3{
+      margin-top: 300px;
+      position: absolute;
+      margin-left: -305px;
+    }
+  
+    .line4{
+      margin-top: 300px;
+      position: absolute;
+      margin-left: -112px;
+    }
+    
+    .rectangle2{
+      margin-left:35px;
+      margin-top: 20px;
+      opacity: 0.9;
+    }
+
+    .two-five1{
+      margin-left: 60px;
+      margin-top: -300px;
+      position: absolute;
+      font-size: 50px;
+      font-family: 'Segoe UI';
+      font-style: normal;
+      font-weight: 400;
+      line-height: 73px;
+    }
+  
+    .dollar-sign2{
+      margin-left: 165px;
+      margin-top: -310px;
+      position: absolute;
+      color: #713BDB;
+      font-family: 'Segoe UI';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 35px;
+      line-height: 47px;
+    }
+
+    .total-value2{
+      margin-left: 60px;
+      position: absolute;
+      margin-top: -225px;
+      color:#42474A;
+      width: 210px;
+      height: 23px;
+      font-family: 'Segoe UI';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 17px;
+      line-height: 23px;
+    }
+
+    .policy-text2{
+      margin-left: 65px;
+      margin-top: -180px;
+      position: absolute;
+      width: 44px;
+      height: 23px;
+      font-family: 'Segoe UI';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 17px;
+      line-height: 23px;
+      color:#42474A;
+    }
+
+    .policy-amount2{
+      margin-left: 270px;
+      margin-top: -185px;
+      position: absolute;
+      width: 36px;
+      height: 29px;
+      font-family: 'Segoe UI';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 22px;
+      line-height: 29px;
+      color: #42474A;
+    }
+
+    .policy-currency2{
+      margin-left: 317px;
+      margin-top: -185px;
+      position: absolute;
+      position: absolute;
+      width: 8px;
+      height: 17px;
+      font-family: 'Segoe UI';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 13px;
+      line-height: 17px;
+      color: #42474A;
+    }
+
+    .line5{
+      margin-top: 180px;
+      position: absolute;
+      margin-left: -295px;
+    }
+
+    .line6{
+      margin-top: 180px;
+      position: absolute;
+      margin-left: -145px;
+    }
+
+    .claim-text2{
+      margin-left: 60px;
+      margin-top: -70px;
+      position: absolute;
+      width: 44px;
+      height: 23px;
+      font-family: 'Segoe UI';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 17px;
+      line-height: 23px;
+      color:#42474A;
+    }
+
+    .claim-amount2{
+      margin-left: 275px;
+      margin-top: -75px;
+      position: absolute;
+      width: 36px;
+      height: 29px;
+      font-family: 'Segoe UI';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 22px;
+      line-height: 29px;
+      color: #42474A;
+    }
+
+    .claim-currency2{
+      margin-left: 322px;
+      margin-top: -77px;
+      position: absolute;
+      width: 8px;
+      height: 17px;
+      font-family: 'Segoe UI';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 13px;
+      line-height: 17px;
+      color: #42474A;
+    }
+
+    .line7{
+      margin-top: 290px;
+      position: absolute;
+      margin-left: -305px;
+    }
+
+    .line8{
+      margin-top: 290px;
+      position: absolute;
+      margin-left: -115px;
+    }
+
+    .rectangle3{
+      margin-left:35px;
+      margin-top: 20px;
+      opacity: 0.9;
+    }
+
+    .two-five2{
+      margin-left: 60px;
+      margin-top: -300px;
+      position: absolute;
+      font-size: 50px;
+      font-family: 'Segoe UI';
+      font-style: normal;
+      font-weight: 400;
+      line-height: 73px;
+    }
+  
+    .dollar-sign3{
+      margin-left: 165px;
+      margin-top: -310px;
+      position: absolute;
+      color: #713BDB;
+      font-family: 'Segoe UI';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 35px;
+      line-height: 47px;
+    }
+  
+    .total-value3{
+      margin-left: 60px;
+      position: absolute;
+      margin-top: -225px;
+      color:#42474A;
+      width: 210px;
+      height: 23px;
+      font-family: 'Segoe UI';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 17px;
+      line-height: 23px;
+    }
+
+    .policy-text3{
+      margin-left: 65px;
+      margin-top: -180px;
+      position: absolute;
+      width: 44px;
+      height: 23px;
+      font-family: 'Segoe UI';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 17px;
+      line-height: 23px;
+      color:#42474A;
+    }
+  
+    .policy-amount3{
+      margin-left: 270px;
+      margin-top: -185px;
+      position: absolute;
+      width: 36px;
+      height: 29px;
+      font-family: 'Segoe UI';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 22px;
+      line-height: 29px;
+      color: #42474A;
+    }
+  
+    .policy-currency3{
+      margin-left: 317px;
+      margin-top: -185px;
+      position: absolute;
+      position: absolute;
+      width: 8px;
+      height: 17px;
+      font-family: 'Segoe UI';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 13px;
+      line-height: 17px;
+      color: #42474A;
+    }
+  
+    .line9{
+      margin-top: 180px;
+      position: absolute;
+      margin-left: -295px;
+    }
+
+    .line10{
+      margin-top: 180px;
+      position: absolute;
+      margin-left: -145px;
+    }
+   
+    .claim-text3{
+      margin-left: 60px;
+      margin-top: -70px;
+      position: absolute;
+      width: 44px;
+      height: 23px;
+      font-family: 'Segoe UI';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 17px;
+      line-height: 23px;
+      color:#42474A;
+    }
+  
+    .claim-amount3{
+      margin-left: 275px;
+      margin-top: -75px;
+      position: absolute;
+      width: 36px;
+      height: 29px;
+      font-family: 'Segoe UI';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 22px;
+      line-height: 29px;
+      color: #42474A;
+    }
+  
+    .claim-currency3{
+      margin-left: 322px;
+      margin-top: -77px;
+      position: absolute;
+      width: 8px;
+      height: 17px;
+      font-family: 'Segoe UI';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 13px;
+      line-height: 17px;
+      color: #42474A;
+    }
+
+    .line11{
+      margin-top: 290px;
+      position: absolute;
+      margin-left: -305px;
+    }
+  
+    .line12{
+      margin-top: 290px;
+      position: absolute;
+      margin-left: -115px; 
     }
   
   
