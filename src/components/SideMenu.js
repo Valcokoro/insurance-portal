@@ -12,6 +12,7 @@ import history from '../resources/history.svg';
 
 
 
+
 const SideMenu = () => {
   
 return (
@@ -42,6 +43,7 @@ return (
          <a href='' className='user-page'>User Account</a>
          <img src={history} alt='history-icon' className='history-icon'/>
          <a href='' className='history-page'>History</a>
+         
 
         </div>
       </div>

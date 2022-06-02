@@ -130,7 +130,7 @@ code {
   margin-left: 5px;
   margin-top: 135px;
   position: absolute;
-  color:  #A2A4B9;
+  color:  #713BDB;
   }
 
   .report-icon{
@@ -727,6 +727,55 @@ code {
     margin-top: 425px;
     position: absolute;
     margin-left: 550px;
+  }
+
+  .overview-page2{
+    margin-left: -495px;
+    margin-top: -50px;
+    position: absolute;
+    position: absolute;
+    width: 66px;
+    height: 21px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+    color: #42474A;
+  }
+
+  .policy-page2{
+    margin-left: -395px;
+    margin-top: -50px;
+    position: absolute;
+    position: absolute;
+    width: 66px;
+    height: 21px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+    color: #42474A;
+  }
+
+  .report-page2{
+    margin-left: -325px;
+    margin-top: -50px;
+    position: absolute;
+    position: absolute;
+    width: 66px;
+    height: 21px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+    color: #713BDB;
+  }
+
+  a:hover{
+    color:#713BDB;
   }
 
 }
@@ -1444,6 +1493,19 @@ code {
       margin-top: 290px;
       position: absolute;
       margin-left: -115px; 
+    }
+
+    .overview-page2{
+      display:none;
+    }
+
+    .policy-page2{
+      display:none;
+    }
+
+    .report-page2{
+      display:none;
+      
     }
   
   
