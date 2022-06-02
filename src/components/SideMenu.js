@@ -32,17 +32,17 @@ return (
          <i class="plus icon"></i></button>
        <div className='side-menu'>
          <img src={overview} alt='overview-icon' className='overview-icon'/>
-         <a href='https://valaokoro.netlify.app' className='overview-page'>Overview</a>
+         <a href='' className='overview-page'>Overview</a>
          <img src={policy} alt='policy-icon' className='policy-icon'/>
-         <a href='https://valaokoro.netlify.app' className='policy-page'>Policy</a>
+         <a href='' className='policy-page'>Policy</a>
          <img src={report} alt='report-icon' className='report-icon'/>
-         <a href='https://valaokoro.netlify.app' className='report-page'>Reports</a>
+         <a href='' className='report-page'>Reports</a>
          <img src={company} alt='company-icon' className='company-icon'/>
-         <a href='https://valaokoro.netlify.app' className='company-page'>Company</a>
+         <a href='' className='company-page'>Company</a>
          <img src={user} alt='user-icon' className='user-icon'/>
-         <a href='https://valaokoro.netlify.app' className='user-page'>User Account</a>
+         <a href='' className='user-page'>User Account</a>
          <img src={history} alt='history-icon' className='history-icon'/>
-         <a href='https://valaokoro.netlify.app' className='history-page'>History</a>
+         <a href='' className='history-page'>History</a>
          
 
         </div>
