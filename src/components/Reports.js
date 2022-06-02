@@ -25,9 +25,9 @@ const Reports = () =>{
    return (
     <section className='reports'>
        <div className='rightpane'>
-          <a href='' className='overview-page2'>Overview</a>
+          <a href='./Reports.js' className='overview-page2'>Overview</a>
           <a href='' className='policy-page2'>Policy</a>
-          <a href='' className='report-page2'>Reports</a>
+          <a href='./Reports.js' className='report-page2'>Reports</a>
           <img src={agent} alt='agent-icon' className='agent'/>
           <img src={area} alt='area-icon' className='area'/>
           <img src={area2} alt='area2-icon' className='area2'/>
