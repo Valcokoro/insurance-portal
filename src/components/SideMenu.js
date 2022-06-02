@@ -8,6 +8,8 @@ import report from '../resources/report.svg';
 import company from '../resources/company.svg';
 import user from '../resources/user.svg';
 import history from '../resources/history.svg';
+import signout from '../resources/signout.svg';
+import signout1 from '../resources/signout1.svg'
 
 
 
@@ -43,6 +45,9 @@ return (
          <a href='' className='user-page'>User Account</a>
          <img src={history} alt='history-icon' className='history-icon'/>
          <a href='' className='history-page'>History</a>
+         <img src={signout} alt='signout-icon' className='signout-icon'/>
+         <img src={signout1} alt='signout-icon' className='signout1-icon'/>
+         <a href='' className='signout-page'>Logout</a>
          
 
         </div>

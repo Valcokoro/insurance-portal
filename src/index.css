@@ -778,6 +778,32 @@ code {
     color:#713BDB;
   }
 
+  .signout-icon{
+    margin-top:520px;
+    margin-left:-30px;
+    position: absolute;
+  }
+
+  .signout1-icon{
+    margin-top:527px;
+    margin-left:-30px;
+    position: absolute;
+  }
+
+  .signout-page{
+    margin-top:517px;
+    margin-left:-10px;
+    position: absolute;
+    width: 66px;
+    height: 24px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    color: #A2A4B9;
+  }
+
 }
    
 @media(max-width: 780px){
@@ -1505,7 +1531,32 @@ code {
 
     .report-page2{
       display:none;
-      
+    }
+
+    .signout-icon{
+      margin-top:-270px;
+      margin-left: 293px;
+      position: absolute;
+    }
+  
+    .signout1-icon{
+      margin-top:-263px;
+      margin-left: 293px;
+      position: absolute;
+    }
+  
+    .signout-page{
+      margin-top:-273px;
+      margin-left: 307px;
+      position: absolute;
+      width: 20px;
+      height: 15px;
+      font-family: 'Segoe UI';
+      font-style: normal;
+      font-weight: 300;
+      font-size: 15px;
+      line-height: 20px;
+      color: #A2A4B9;
     }
   
   
